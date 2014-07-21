@@ -97,3 +97,5 @@ Columns 36-70 represents the average value of the standard deviation measurement
 66. Freq.BodyAccJerkMag.SD
 67. Freq.BodyGyroMag.SD
 68. Freq.BodyGyroJerkMag.SD
+
+The tidy data set should have 180 rows (i.e. 30 subjects with 6 activity each), and their measurements. 
